@@ -1,1 +1,1 @@
-# Play2Max
+# Play2Max - test card game
